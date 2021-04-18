@@ -5,12 +5,13 @@
 **React Native** that supports CRUD operations by sending
 requests to a **MongoDB** database through a **Node** server.*
 
-<img src="./assets/Home.jpg" height="200" align='center' />
+<p align="center">
+<img src="./assets/Home.jpg" width="150" align='center' />
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="./assets/Profile.jpg" height="200" align='center' />
-
+<img src="./assets/Profile.jpg" width="150" align='center' />
+</p>
 
 ## Getting Started
 It is recommended to use the **yarn** packet manager for this project. All images uploaded to the application are stored on the online **Cloudinary** platform.
